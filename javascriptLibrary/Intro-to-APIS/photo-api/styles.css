@@ -1,0 +1,11 @@
+#showImage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+#showImage img {
+  margin-top: 20px;
+}
